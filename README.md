@@ -1,6 +1,8 @@
 # Halftone
 # By Dr. Ali Abbas aabbas7@gmail.com
 # Programming Language: C++Builder 6
+## I am trying to revive the programs I developed throughout my long career
+## This Program since 15/10/2003
 
 **Create Halftone from Image**
 
