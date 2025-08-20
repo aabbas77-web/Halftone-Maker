@@ -9,7 +9,7 @@
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/LoadImage.png)<br/>
 
 2. **Make Halftone**<br/>
-**Change Settings first**<br/>
+-  **Change Settings first**<br/>
 
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/Settings.png)<br/>
 
