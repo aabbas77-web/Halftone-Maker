@@ -13,6 +13,8 @@
 
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/Settings.png)<br/>
 
+-  **The final result**<br/>
+
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/MakeHalftone.png)<br/>
 
 3. **Save Image as Raster (bmp, jpg) or as Vector (emf)**<br/>
