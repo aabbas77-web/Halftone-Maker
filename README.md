@@ -14,10 +14,10 @@ Make Halftone
 Change Settings first
 
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/Settings.png)
+
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/MakeHalftone.png)
 
 Save Image as Raster (*.bmp, *.jpg) or as Vector (*.emf)
 
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/GIRL01.JPG)
-
 
