@@ -9,6 +9,6 @@ Load Image
 
 Make Halftone
 
-![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/GIRL01.EMF)
+![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/GIRL01.JPG)
 
 
