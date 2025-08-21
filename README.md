@@ -6,12 +6,7 @@
 ## This Program since 15/10/2003
 
 **Create Halftone from Image**
-
-
-
 [![OpenAI Intro](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)](https://www.youtube.com/watch?v=ecGTu8sCbYQ)
-
-
 
 1. **Load Image**<br/>
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/GIRL01.BMP)<br/>
