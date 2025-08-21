@@ -7,30 +7,12 @@
 
 **Create Halftone from Image**
 
-<video width="640" height="360" controls>
-  <source src="path/to/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-
-<picture>
-  <source media="(min-width:650px)" srcset="[img_pink_flowers.jpg](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)">
-  <source media="(min-width:465px)" srcset="[img_white_flower.jpg](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)">
-  <img src="https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png" alt="Flowers" style="width:auto;">
-</picture>
+<img src="https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png" alt="Flowers" style="width:auto;">
 
 
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/ecGTu8sCbYQ" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
 
-
-
-![[Watch the video](https://youtu.be/ecGTu8sCbYQ)](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)
-[Watch the video](https://youtu.be/ecGTu8sCbYQ)<br/>
 
 1. **Load Image**<br/>
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/GIRL01.BMP)<br/>
