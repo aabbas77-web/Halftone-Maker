@@ -7,6 +7,11 @@
 
 **Create Halftone from Image**
 
+<video width="640" height="360" controls>
+  <source src="path/to/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 <picture>
   <source media="(min-width:650px)" srcset="[img_pink_flowers.jpg](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)">
@@ -24,8 +29,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 
 
-![[Watch the video](https://youtu.be/Cf_dvVaLGM8)](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)
-[Watch the video](https://youtu.be/Cf_dvVaLGM8)<br/>
+![[Watch the video](https://youtu.be/ecGTu8sCbYQ)](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)
+[Watch the video](https://youtu.be/ecGTu8sCbYQ)<br/>
 
 1. **Load Image**<br/>
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/GIRL01.BMP)<br/>
