@@ -7,6 +7,14 @@
 
 **Create Halftone from Image**
 
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/Cf_dvVaLGM8" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+
+
 ![[Watch the video](https://youtu.be/Cf_dvVaLGM8)](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)
 [Watch the video](https://youtu.be/Cf_dvVaLGM8)<br/>
 
