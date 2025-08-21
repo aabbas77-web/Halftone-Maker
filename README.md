@@ -7,7 +7,7 @@
 
 **Create Halftone from Image**
 
-![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)
+![[Watch the video](https://youtu.be/Cf_dvVaLGM8)](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)
 [Watch the video](https://youtu.be/Cf_dvVaLGM8)<br/>
 
 1. **Load Image**<br/>
