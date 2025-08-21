@@ -8,9 +8,8 @@
 **Create Halftone from Image**
 
 
-<img src="https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png" alt="Flowers" style="width:auto;">
 
-
+[![OpenAI Intro](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)](https://www.youtube.com/watch?v=ecGTu8sCbYQ)
 
 
 
