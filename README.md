@@ -7,6 +7,15 @@
 
 **Create Halftone from Image**
 
+
+<picture>
+  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
+  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
+  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture>
+
+
+
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/ecGTu8sCbYQ" 
 title="YouTube video player" frameborder="0" 
