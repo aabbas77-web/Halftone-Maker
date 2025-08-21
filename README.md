@@ -16,7 +16,7 @@
 <picture>
   <source media="(min-width:650px)" srcset="[img_pink_flowers.jpg](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)">
   <source media="(min-width:465px)" srcset="[img_white_flower.jpg](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)">
-  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+  <img src="https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png" alt="Flowers" style="width:auto;">
 </picture>
 
 
