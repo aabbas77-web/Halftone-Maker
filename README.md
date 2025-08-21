@@ -6,6 +6,8 @@
 
 **Create Halftone from Image**
 
+[Watch the video](https://youtu.be/Cf_dvVaLGM8)<br/>
+
 1. **Load Image**<br/>
 ![image alt](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/GIRL01.BMP)<br/>
 
