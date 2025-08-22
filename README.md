@@ -1,10 +1,12 @@
-# Halftone
+![image alt](https://github.com/aabbas77-web/AliSoft/blob/main/AliSoft128Transparent.png)
+# [AliSoft](https://hodhods.com) Halftone Maker (Raster To Vector)
 # By Dr. Ali Abbas aabbas7@gmail.com
 # Programming Language: C++Builder 6
 ## I am trying to revive the programs I developed throughout my long career
 ## This Program since 15/10/2003
 
 **Create Halftone from Image**
+[![OpenAI Intro](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)](https://www.youtube.com/watch?v=ecGTu8sCbYQ)
 
 [Watch the video](https://youtu.be/Cf_dvVaLGM8)<br/>
 
